@@ -1,0 +1,44 @@
+
+[
+    {
+        "name": "Fish and Seafood",
+         "src": "seaFood.jpg"
+    },
+    {
+        "name": "Lentils",
+        "src": "seaFood.jpg"
+    },
+    {
+        "name": "Berries",
+        "src": "seaFood.jpg"
+    },
+    {
+        "name": "Avocado",
+        "src": "seaFood.jpg"
+    },
+    {
+        "name": "Broccoli",
+        "src": "seaFood.jpg"
+    },
+
+    {
+        "name": "Chicken",
+        "src": "seaFood.jpg"
+    },
+    {
+        "name": "Leafy Greens",
+        "src": "seaFood.jpg"
+    },
+    {
+        "name": "Nuts",
+        "src": "seaFood.jpg"
+    },
+    {
+        "name": "Whole Grains",
+        "src": "seaFood.jpg"
+    },
+    {
+        "name": "Yogurt",
+        "src": "seaFood.jpg"
+    }
+]
